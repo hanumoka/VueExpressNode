@@ -12,7 +12,7 @@ Vue와 ExpressJs 통합 개발환경 예제
 루트/frontend 로 이동: cmd 에서 npm i로 의존성설치
 루트/backend 로 이동: cmd 에서 npm i로 의존성설치
 
-루트/frontend 로 이동: npm run buld 명령 입력 => vue 프로젝트를 빌드해서 루트/backend/public 에 정적웹소스 생성됩니다.
+루트/frontend 로 이동: npm run build 명령 입력 => vue 프로젝트를 빌드해서 루트/backend/public 에 정적웹소스 생성됩니다.
 
 루트/backend 로 이동: DEBUG=backend:* npm start 명령 입력으로 expressJS 구동 
 
