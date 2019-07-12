@@ -19,3 +19,7 @@ Vue와 ExpressJs 통합 개발환경 예제
 브라우저에서 http://localhost:3000, http://localhost:3000/LogInPag, http://localhost:3000/movie, http://localhost:3000/movie/1
 등으로 동작 화면 확인 가능
 
+
+# 해당 프로젝트 메뉴얼 
+
+https://blog.hanumoka.net/2018/11/13/vue-20181113-vue-how-to-make-vue-express-project/
